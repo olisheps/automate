@@ -3,3 +3,5 @@ import calculate
 
 print("Hello!")
 print(calculate.x)
+
+print ("Hi again")
